@@ -1,5 +1,7 @@
 # FluidBottomNavigation
 
-https://github.com/Ankit6989/FluidBottomNavigation/assets/114300894/6f4638af-8abf-49c1-868a-82c1e339ce02
+https://github.com/Ankit6989/FluidBottomNavigation/assets/114300894/1deda053-c613-4acb-9784-199cac9445e7
+
+
 
 
